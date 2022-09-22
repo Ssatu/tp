@@ -58,12 +58,12 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Responsibilities: Integration, responsible for Client class
 
 
-### James Doe
+### Damien Koh
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/ssatu.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/Ssatu)]
+[[portfolio](team/ssatu.md)]
 
 * Role: Developer
-* Responsibilities: UI
+* Responsibilities: ?
