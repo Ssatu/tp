@@ -20,7 +20,7 @@ P.S. This document is the official user guide of the LongTimeNoSee (LTNS) app. T
 # Table of Contents
 1. [Quickstart](#quick-start)
 2. [Tutorial](#tutorial)
-3. [Features](#features)<br>
+3. [Features](#features-overview)<br>
     * [Common Features](#common-features)<br>
         * [Viewing Help](#viewing-help--help)
         * [Clearing Entries](#clearing-all-entries--clear)
@@ -69,7 +69,7 @@ P.S. This document is the official user guide of the LongTimeNoSee (LTNS) app. T
 4. Double-click the file to start the app. The GUI similar to the one below should appear in a few seconds. Note how the app contains some sample data.<br>
 ![Ui.png](./images/Ui.png)
 
-5. Not sure where to start? The following section is a detailed Tutorial on how to use the Application. Feel free to [skip](#features) this section if you are confident in using the application.
+5. Not sure where to start? The following section is a detailed Tutorial on how to use the Application. Feel free to [skip](#features-overview) this section if you are confident in using the application.
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ Now that you are familiar with your Application's layout, it's time to learn how
 #### Learning to Use Commands 
 As shown in the diagram above, the command box, also known as the [Command Line Interface (CLI)](#command-line-interface-cli) is where you will type your commands.
 
-But what commands can you type? We will now learn how to understand the [Features](#features) section below.
+But what commands can you type? We will now learn how to understand the [Features](#features-overview) section below.
 
 Each Feature section begins with an **introduction**, followed by the **command format**. 
 
@@ -124,7 +124,7 @@ Notice that `[t/TAG]` are not required as they are optional. Also notice how we 
 #### Last Word of Advice 
 Congratulations! You are now ready to begin your journey of using LongTimeNoSee! 
 
-When you are ready, go to the [Feature](#features) section to find out about the commands you can use. 
+When you are ready, go to the [Feature](#features-overview) section to find out about the commands you can use. 
 
 For ease of reading, each feature follows the following format:
 1. Description
